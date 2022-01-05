@@ -54,6 +54,9 @@ nav li {
 
 /* responsive rules */
 @media screen and (max-width: 715px){
+    nav li {
+        margin-right: 10px;
+    }
     header {
         height: 200px;
     }
